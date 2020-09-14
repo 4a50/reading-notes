@@ -5,7 +5,7 @@
 ## Oh, and I love Ghostbusters more than most things in this world!
 
 ![Ghostbusters Logo] (https://www.brandsoftheworld.com/logo/ghostbusters-8?original=1 "Ghostbusters")
-
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 [Check out my bio!](https://github.com/4a50)
 
