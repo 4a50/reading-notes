@@ -8,7 +8,7 @@
 > That was pretty neat, and something that I know will help me in the past.
 > I did have some difficulty with getting an image to work.  What I learned was SPACES MATTER!  Here is a sample of code.
 '''
-![alt text](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/052014/ghostbusters_logo_1984_no_fill.png "Ghostbusters")
+![alt text](URL) "Name of Image")
 '''
 > As they say, something learned made the day productive.  Or maybe, it's just me.
 [<--](README.md)
