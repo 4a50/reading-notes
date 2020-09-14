@@ -4,7 +4,7 @@
 
 ## Oh, and I love Ghostbusters more than most things in this world!
 
-![Ghostbusters Logo]https://cdn.shopify.com/s/files/1/0882/5118/products/GHOSTBUSTERS-Logo-Glow-In-The-Dark-Enamel-Pin-2320497_1024x1024.jpg?v=1543616477 "Ghostbusters")
+![Ghostbusters Logo] https://cdn.shopify.com/s/files/1/0882/5118/products/GHOSTBUSTERS-Logo-Glow-In-The-Dark-Enamel-Pin-2320497_1024x1024.jpg?v=1543616477 "Ghostbusters")
 
 
 [Check out my bio!](https://github.com/4a50)
