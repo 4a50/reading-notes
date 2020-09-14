@@ -8,6 +8,9 @@
 
 [Check out my bio! at GitHub](https://github.com/4a50)
 
+## Things I have learned:
+[Day 1](https://github.com/4a50/reading-notes/blob/master/Day-1.md)
+
 ## What is Growth Mindset to me?
 
 ### It is pretty much something that has enabled me to get through my career.  In a high-tempo environment, you need to be able to take you lickings and keep rolling for the next challenge, and ask for help when you need it because you don't have all the answers.
