@@ -2,12 +2,11 @@
 
 ## I am a person with way to many hobbies!  I hosted a podcast on retro gaming, I enjoy creating electronics, camping, making, and programming.  I have 3 kids and 3 dogs, so not a dull moment at this house.  
 
-## Oh, and I love Ghostbusters more than most things in this world!
+## Oh, and I love *Ghostbusters* more than most things in this world!
 
 ![alt text](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/052014/ghostbusters_logo_1984_no_fill.png "Ghostbusters")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-[Check out my bio!](https://github.com/4a50)
+[Check out my bio! at GitHub](https://github.com/4a50)
 
 ## What is Growth Mindset to me?
 
