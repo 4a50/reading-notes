@@ -10,13 +10,8 @@
 ```
 ![alt text](URL) "Name of Image")
 ```
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
 > As they say, something learned made the day productive.  Or maybe, it's just me.
 
+### Click to head back:
 [<--](README.md)
 
