@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+#Hello I am JP.  I am a person with way to many hobbies!  I hosted a podcast on retro gaming, I enjoy creating electronics, camping, making, and programming.  I have 3 kids and 3 dogs, so not a dull moment at this house.  
 
-You can use the [editor on GitHub](https://github.com/4a50/reading-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## What is Growth Mindset to me?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### It is pretty much something that has enabled me to get through my career.  In a high-tempo environment, you need to be able to take you lickings and keep rolling for the next challenge, and ask for help when you need it because you don't have all the answers.
 
-### Markdown
+### There are three things that I always remind to keep growing.
+- That you may not have all the answers, but other do and will help you!
+- Other have done the same thing, and have found a way!
+- How do you eat an elephant?  One bite at a time?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/4a50/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Check out my bio!](https://www.google.com)
