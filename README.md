@@ -19,7 +19,9 @@ I am a person with way to many hobbies!  I hosted a podcast on retro gaming, I e
 ## Things I have learned:
 
 [Class 1](DAY1.md)
+
 [Class 2](README.md)
+
 [Class 3](git-revisions.md)
 
 ## What is Growth Mindset to me?
