@@ -1,7 +1,7 @@
 # Linux Commands Cheat Sheet.. Should be pretty handy.
 
 # Everything is a FILE!!  <-- Mind blown
-# Gives zero @#$@! about extensions!
+# Gives zero @#$%s about extensions!
 
 ## Case Matters!
 
