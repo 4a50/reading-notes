@@ -6,8 +6,8 @@
 ## Case Matters!
 
 # use to group multiple words
-+ '' such as `cd 'My Documents'/somethingSpecial/
-+ \ such as `cd My \Documents/somethingSpecial/
++ '' such as `cd 'My Documents'/somethingSpecial/`
++ \ such as `cd My \Documents/somethingSpecial/`
 
 ## Print Working Directory 'pwd'
 
