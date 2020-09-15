@@ -8,6 +8,7 @@
 
 [Check out my bio! at GitHub](https://github.com/4a50)
 
+[Linux Commands Cheat Sheet] (LinuxCheetSheet.md)
 ## Things I have learned:
 [Class 1](DAY1.md)
 
