@@ -11,7 +11,7 @@ A few interesting key point to remember here:
   + What information needs to be prominent?
 + Then begin to work on sizing and colors to draw the eye appropriately.  
 
-+ Grouping is important to organize information for the end user
++ Grouping is important to organize information for the end-user
 
 ## Chapter 17: HTML5 tags<-- I know, out of order
 
