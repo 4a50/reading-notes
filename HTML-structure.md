@@ -44,6 +44,7 @@ Using **span** and  **div** to group elements together.
 **meta** information is important to get recognized by search engines.  Pretty important I think.  Quick way to get the details of a website.
 
 aaaaaand... how to use the escape characters. Some of the characters you cannot normally use because they are either special (not on the keyboard), or used in the syntax.  use and ampersand & followed by the code.  For example, to get the cents symbol &cent; you would do this:
-```&cent;```. 
 
-[<--](README.md)
+```&cent;```
+
+[<--BACK](README.md)
