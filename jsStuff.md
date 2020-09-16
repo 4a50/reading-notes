@@ -1,6 +1,6 @@
 # Class 6
 
-## Chapter 1C: Intro to JaveScript
+## Chapter 1C: Intro to JavaScript
 
 This is the language part, that makes the website function.
 
@@ -13,6 +13,6 @@ Ensure the HTML doc knows where to look for it, much like CSS.
 
 **NOTE** Never use ```document.write()``` &lt;-- it's an unsecure way display text.
 
-**Good Practice**: keep your CSS and JS in seperate practice.  Keeps things nice and tidy!
+**Good Practice**: keep your CSS and JS in seperate folder is good practice.  Keeps things nice and tidy!
 
 [<--BaCK](README.md)
