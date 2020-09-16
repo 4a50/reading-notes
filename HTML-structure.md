@@ -13,7 +13,7 @@ A few interesting key point to rememeber here:
 
 + Grouping is important to organize information for the end user
 
-## Chapter 17: HTML5 tage<-- I know, out of order
+## Chapter 17: HTML5 tags<-- I know, out of order
 
 HTML5 is a much more robust version of the markup language.  Consolditation some tags for use in structuring the web page.
 
@@ -27,8 +27,23 @@ These are some key tags that I think will come in handy that I didn't know befor
   + if **inside** an article it's for relevant infor for that article
 + `<figures>` contain information that is reference from the main flowof the article
 
+## Chapter 8: Extra Markup
 
+So a few items here, that learned before in 101.  But one thing that solidified my understanding a little more was the difference between a **class** and a **id**.
 
+A **class** is a tag that you can add to any other tags to group them together for CSS styling to be applied.  Kinda a one stop shop for formatting everything with the same class.
 
+A **id** is specific to one item, so any formatting that CSS does will apply *ONLY* to that item.
 
-[<--](README.md
+Interesting read on the different versions of HTML.
+
+Understanding the difference between **block** and **inline** elements.
+
+Using **span** and  **div** to group elements together.
+
+**meta** information is important to get recognized by search engines.  Pretty important I think.  Quick way to get the details of a website.
+
+aaaaaand... how to use the escape characters. Some of the characters you cannot normally use because they are either special (not on the keyboard), or used in the syntax.  use and ampersand & followed by the code.  For example, to get the cents symbol &cent; you would do this:
+```&cent;```. 
+
+[<--](README.md)
