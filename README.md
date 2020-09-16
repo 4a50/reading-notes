@@ -26,6 +26,8 @@ I am a person with way to many hobbies!  I hosted a podcast on retro gaming, I e
 
 [class 4](HTML-structure.md)
 
+[Class 5](css-color.md)
+
 ## What is Growth Mindset to me?
 
 It is pretty much something that has enabled me to get through my career.  In a high-tempo environment, you need to be able to take you lickings and keep rolling for the next challenge, and ask for help when you need it because you don't have all the answers.
