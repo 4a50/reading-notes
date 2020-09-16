@@ -2,7 +2,7 @@
 
 ## Chapter 18: Process and Design
 
-A few interesting key point to rememeber here:
+A few interesting key point to remember here:
 
 + Ensure you are building the website for people that are *using* it, not for the builder.  **Build it for Grandma!**
 
@@ -15,25 +15,25 @@ A few interesting key point to rememeber here:
 
 ## Chapter 17: HTML5 tags<-- I know, out of order
 
-HTML5 is a much more robust version of the markup language.  Consolditation some tags for use in structuring the web page.
+HTML5 is a much more robust version of the markup language.  Consolditation of some tags for use in structuring the web page.
 
 These are some key tags that I think will come in handy that I didn't know before.
 
-+ `<hgroup>` used for grouping multiply <h> tags for the header
++ `<hgroup>` used for grouping multiply &lt;h&gt; tags for the header
   + or in an article too
 + `<nav>` used for navigation bars
-+ `<article>` acts as a container to for a section that could stand alone or be syndicated
++ `<article>` acts as a container for a section that could stand alone or be syndicated
 + `<aside>` contains information related to the page
-  + if **inside** an article it's for relevant infor for that article
-+ `<figures>` contain information that is reference from the main flowof the article
+  + if **inside** an article it's for relevant info for that article
++ `<figures>` contain information that is reference from the main flow of the article
 
 ## Chapter 8: Extra Markup
 
 So a few items here, that learned before in 101.  But one thing that solidified my understanding a little more was the difference between a **class** and a **id**.
 
-A **class** is a tag that you can add to any other tags to group them together for CSS styling to be applied.  Kinda a one stop shop for formatting everything with the same class.
+A **class** is a tag that you can add to any other tags to group them together for CSS styling to be applied.  Kinda a one-stop-shop for formatting everything with the same class.
 
-A **id** is specific to one item, so any formatting that CSS does will apply *ONLY* to that item.
+An **id** is specific to one item, so any formatting that CSS does will apply *ONLY* to that item.
 
 Interesting read on the different versions of HTML.
 
