@@ -20,7 +20,7 @@ HTML5 is a much more robust version of the markup language.  Consolditation of s
 These are some key tags that I think will come in handy that I didn't know before.
 
 + `<hgroup>` used for grouping multiply &lt;h&gt; tags for the header
-  + or in an article too
+  + Good for use in an article too
 + `<nav>` used for navigation bars
 + `<article>` acts as a container for a section that could stand alone or be syndicated
 + `<aside>` contains information related to the page
