@@ -15,7 +15,7 @@ A few interesting key point to remember here:
 
 ## Chapter 17: HTML5 tags<-- I know, out of order
 
-HTML5 is a much more robust version of the markup language.  Consolditation of some tags for use in structuring the web page.
+HTML5 is a much more robust version of the markup language.  Consolidation of some tags for use in structuring the web page.
 
 These are some key tags that I think will come in handy that I didn't know before.
 
@@ -25,7 +25,7 @@ These are some key tags that I think will come in handy that I didn't know befor
 + `<article>` acts as a container for a section that could stand alone or be syndicated
 + `<aside>` contains information related to the page
   + if **inside** an article it's for relevant info for that article
-+ `<figures>` contain information that is reference from the main flow of the article
++ `<figures>` contain information that is a reference from the main flow of the article
 
 ## Chapter 8: Extra Markup
 
@@ -41,7 +41,7 @@ Understanding the difference between **block** and **inline** elements.
 
 Using **span** and  **div** to group elements together.
 
-**meta** information is important to get recognized by search engines.  Pretty important I think.  Quick way to get the details of a website.
+**meta**-information is important to get recognized by search engines.  Pretty important I think.  A quick way to get the details of a website.
 
 aaaaaand... how to use the escape characters. Some of the characters you cannot normally use because they are either special (not on the keyboard), or used in the syntax.  use and ampersand & followed by the code.  For example, to get the cents symbol &cent; you would do this:
 
