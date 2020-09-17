@@ -23,4 +23,7 @@ for javascript concatenation can be as simple as just adding the string together
 
 ```var spock = 'vulcan' + ', ' + 'human';```
 
+```'use strict'``` forces javascript to be more stric in running.  **NOTE** - Always Line 1
+***D-R-Y*** &lt;-- Do not Repeat Yourself.
+
 [<--BaCK](README.md)
