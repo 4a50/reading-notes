@@ -2,7 +2,7 @@
 
 ## javascript & jQuery
 
-The syntax for an interative loop is about the same as c#, so that is good.
+The syntax for an iterative loop is about the same as c#, so that is good.
 
 ```for (var i = 0; i < 10; i++>){Do things in a loop}```
  **Remember**  &lt;-- while loop will keep looping until it meets the condition
