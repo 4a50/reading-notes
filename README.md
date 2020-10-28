@@ -1,38 +1,71 @@
-# Hello I am JP  
+# Reading Notes
 
-## Who I am
-
-I am a person with way to many hobbies!  I hosted a podcast on retro gaming, I enjoy creating electronics, camping, making, and programming.  I have 3 kids and 3 dogs, so not a dull moment at this house.  
-
-***Oh, and I love *Ghostbusters* more than most things in this world!***
+This is a repository to document all the information I have read throughout this course.  A tome of all things learned, or should've been learned anyway.
 
 ![alt text](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/052014/ghostbusters_logo_1984_no_fill.png "Ghostbusters")
 
-## GitHub Link
+> "Build it for Grandma"
+> "Brackets matter."
 
-[Check out my bio! at GitHub](https://github.com/4a50)
-
-## Linux Cheat Sheets
+## Reference Links
 
 [Linux Commands Cheat Sheet](LinuxCheetSheet.md)
 
-## Things I have learned:
+## Code 102 - Intro to Software Development
 
-[Class 1](DAY1.md)
+[Class 1](/Code-102/DAY1.md)
 
-[Class 2](README.md)
+[Class 2](/Code-102/README.md)
 
-[Class 3](git-revisions.md)
+[Class 3](/Code-102/git-revisions.md)
 
-[class 4](HTML-structure.md)
+[class 4](/Code-102/HTML-structure.md)
 
-[Class 5](css-color.md)
+[Class 5](/Code-102/css-color.md)
 
-[Class 6](jsStuff.md)
+[Class 6](/Code-102/jsStuff.md)
 
-[Class 7](jsProgramming.md)
+[Class 7](/Code-102/jsProgramming.md)
 
-[Class 8](opsAndLoops.md)
+[Class 8](/Code-102/opsAndLoops.md)
+
+## Code 201 - Foundations of Software Development
+
+### Module 1
+
++ [PreWork - Introductory HTML and JavaScript](/Code-201/prework.md)
++ [Read 02 - HTML Text, CSS Introduction, and Basic Javascript Instructions](/Code-201/class-02.md)
++ [Read 03 - HTML Lists. CSS Boxes, JS Control Flow](/Code-201/class-03.md)
++ [Read 04 - HTML Links, CSS Layout, JS Functions](/Code-201/class-04.md)
++ [Read 05 - CSS: HTML Images, CSS Color & Text](/Code-201/class-05.md)
++ [Read 06 - Object Literals and the DOM](/Code-201/class-06.md)
+
+### Module 2
+
++ [Read 07 - Object-Oriented Programming and HTML Tables](/Code-201/class-07.md)
++ [Read 08 - CSS Layout](/Code-201/class-08.md)
++ [Read 09 - Forms and Events](/Code-201/class-09.md)
++ [Read 10 - Error Handling & Debugging](/Code-201/class-10.md)
+
+### Module 3
+
++ [Read 11 - Audio, Video, and Images](/Code-201/class-11.md)
++ [Read 12 - Chart.js and Canvas](/Code-201/class-12.md)
++ [Read 13 - Local Storage](/Code-201/class-13.md)
++ [Read 14a - CSS Transforms, Transitions, and Animations](/Code-201/class-14a.md)
++ [Read 14b - What Google Learned About Teams](/Code-201/class-14b.md)
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
+
+
+
+
+
+
+
+
 
 ## What is Growth Mindset to me?
 
