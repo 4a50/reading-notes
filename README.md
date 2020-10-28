@@ -57,22 +57,18 @@ This is a repository to document all the information I have read throughout this
 
 ## Code 301 - Intermediate Software Development
 
+### Pre-Work
+
+[Read 01 - Responsive Web Design and Floats](/Code-301/read-01.md)
+
 ## Code 401 - Advanced Software Development
 
-
-
-
-
-
-
-
-
-## What is Growth Mindset to me?
+## What is Growth Mindset to me
 
 It is pretty much something that has enabled me to get through my career.  In a high-tempo environment, you need to be able to take you lickings and keep rolling for the next challenge, and ask for help when you need it because you don't have all the answers.
 
-### There are three things that I always remind to keep growing.
+### There are three things that I always remind to keep growing
 
-- That you may not have all the answers, but other do and will help you!
-- Other have done the same thing, and have found a way!
-- How do you eat an elephant?  One bite at a time?
++ That you may not have all the answers, but other do and will help you!
++ Other have done the same thing, and have found a way!
++ How do you eat an elephant?  One bite at a time?
