@@ -61,6 +61,7 @@ This is a repository to document all the information I have read throughout this
 
 [Read 01 - Responsive Web Design and Floats](/Code-301/read-01.md)
 [Read 02 - jQuery, Events, and The DOM](/Code-301/read-02.md)
+[Read 03 - Flexbox and Templating](/Code-301/read-03.md)
 
 ## Code 401 - Advanced Software Development
 
