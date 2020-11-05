@@ -14,19 +14,12 @@ This is a repository to document all the information I have read throughout this
 ## Code 102 - Intro to Software Development
 
 [Class 1](/Code-102/DAY1.md)
-
 [Class 2](/Code-102/README.md)
-
 [Class 3](/Code-102/git-revisions.md)
-
 [class 4](/Code-102/HTML-structure.md)
-
 [Class 5](/Code-102/css-color.md)
-
 [Class 6](/Code-102/jsStuff.md)
-
 [Class 7](/Code-102/jsProgramming.md)
-
 [Class 8](/Code-102/opsAndLoops.md)
 
 ## Code 201 - Foundations of Software Development
@@ -60,8 +53,12 @@ This is a repository to document all the information I have read throughout this
 ### Pre-Work
 
 + [Read 01 - Responsive Web Design and Floats](/Code-301/read-01.md)
+
+### Module 1
+
 + [Read 02 - jQuery, Events, and The DOM](/Code-301/read-02.md)
 + [Read 03 - Flexbox and Templating](/Code-301/read-03.md)
++ [Read 04 - Responsive Web Design and Regular Expressions](/Code-301/read-04.md)
 
 ## Code 401 - Advanced Software Development
 
