@@ -59,6 +59,7 @@ This is a repository to document all the information I have read throughout this
 + [Read 02 - jQuery, Events, and The DOM](/Code-301/read-02.md)
 + [Read 03 - Flexbox and Templating](/Code-301/read-03.md)
 + [Read 04 - Responsive Web Design and Regular Expressions](/Code-301/read-04.md)
++ [Read 05 - HEROKU](/Code-301/read-05.md)
 
 ## Code 401 - Advanced Software Development
 
