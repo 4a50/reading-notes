@@ -61,6 +61,11 @@ This is a repository to document all the information I have read throughout this
 + [Read 04 - Responsive Web Design and Regular Expressions](/Code-301/read-04.md)
 + [Read 05 - HEROKU](/Code-301/read-05.md)
 
+### Module 2
+
++ [Read 06 - Node, Express, and APIs](read-06.md)
+ 
+
 ## Code 401 - Advanced Software Development
 
 ## What is Growth Mindset to me
