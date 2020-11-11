@@ -24,5 +24,4 @@ Node.js, however ***single-threaded***. It’s also ***event-driven***, which me
 ![NodeJS Diagram](https://uploads.sitepoint.com/wp-content/uploads/2012/10/1516152673node_event_loop.png)
 Source:  Introduction To Node.js by Prof. Christian Maderazo, James Santos
 
-
 [&lt;--&#91;BACK&#93;](/README.md)
