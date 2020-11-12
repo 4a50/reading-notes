@@ -66,6 +66,7 @@ This is a repository to document all the information I have read throughout this
 + [Read 06 - Node, Express, and APIs](/Code-301/read-06.md)
 + [Read 07 - APIs continued](/Code301/read-07.md)
 + [Read 08 - SQL](/Code-301/read-08.md)
++ [Read 09 - Refactoring](/Code-301/read-09.md)
 
 ## Code 401 - Advanced Software Development
 

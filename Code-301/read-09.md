@@ -1,4 +1,4 @@
-# Notes for Read 08 - SQL
+# Notes for Read 09 - Refactoring
 
 [Functional Programming Concepts](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 [Refactoring Javascript](https://dev.to/healeycodes/refactoring-javascript-for-performance-and-readability-with-examples-1hec)
