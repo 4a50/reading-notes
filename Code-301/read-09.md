@@ -39,7 +39,6 @@ Don't iterate using the standard **for..loop**, use *Map*, *filter* or *reduce*
 
 ### pure functions + immutable data = referential transparency
 
-
 ### Refactoring for Readability
 
 **hash function** used to map a given key to a location in the hash table

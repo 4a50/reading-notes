@@ -67,6 +67,7 @@ This is a repository to document all the information I have read throughout this
 + [Read 07 - APIs continued](/Code301/read-07.md)
 + [Read 08 - SQL](/Code-301/read-08.md)
 + [Read 09 - Refactoring](/Code-301/read-09.md)
++ [Read 10 - The Call Stack](/Code-301/read-10.md)
 
 ## Code 401 - Advanced Software Development
 
