@@ -69,6 +69,10 @@ This is a repository to document all the information I have read throughout this
 + [Read 09 - Refactoring](/Code-301/read-09.md)
 + [Read 10 - The Call Stack](/Code-301/read-10.md)
 
+### Module 3
+
++ [Read 11 - EJS](/Code-301/read-11.md)
+
 ## Code 401 - Advanced Software Development
 
 ## What is Growth Mindset to me
