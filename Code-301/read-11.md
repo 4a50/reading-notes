@@ -39,6 +39,4 @@ Example GET Request for *Flowers for Algernon* by Daniel Keyes
 
 `https://www.googleapis.com/books/v1/volumes?q=flowers+inauthor:keyes&key=yourAPIKey`
 
-
-
 [&lt;--&#91;BACK&#93;](/README.md)
