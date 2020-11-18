@@ -73,6 +73,7 @@ This is a repository to document all the information I have read throughout this
 
 + [Read 11 - EJS](/Code-301/read-11.md)
 + [Read 12 - EJS Partials](/Code-301/read-12.md)
++ [Read 13 - Update/Delete](/Code-301/read-13.md)
 
 ## Code 401 - Advanced Software Development
 
