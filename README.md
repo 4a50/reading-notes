@@ -2,10 +2,16 @@
 
 This is a repository to document all the information I have read throughout this course.  A tome of all things learned, or should've been learned anyway.
 
-![alt text](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/052014/ghostbusters_logo_1984_no_fill.png "Ghostbusters")
+![alt text](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvZGluZ3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60 "Ghostbusters")
+Photo by Markus Spiske on Unsplash
 
-> "Build it for Grandma"
-> "Brackets matter."
+## Quotes I've developed During the Course
+
+> "Build it for Grandma" - Keep the code as readable as possible
+
+> "Brackets matter."  - They will get you into trouble
+
+> "My life is a series of small errors" - Be mindful of small errors (semi-colons.  Closing parens, etc)
 
 ## Reference Links
 
