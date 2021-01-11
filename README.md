@@ -85,7 +85,7 @@ Photo by Markus Spiske on Unsplash
 
 ## Code 401 - Advanced Software Development
 
-+ [Read 01 - Exception Handling and Debugging](/Code-401.read-01.md)
++ [Read 01 - Exception Handling and Debugging](/Code-401/read-01.md)
 
 ## What is Growth Mindset to me
 
