@@ -85,6 +85,8 @@ Photo by Markus Spiske on Unsplash
 
 ## Code 401 - Advanced Software Development
 
++ [Read 01 - Exception Handling and Debugging](/Code-401.read-01.md)
+
 ## What is Growth Mindset to me
 
 It is pretty much something that has enabled me to get through my career.  In a high-tempo environment, you need to be able to take you lickings and keep rolling for the next challenge, and ask for help when you need it because you don't have all the answers.
