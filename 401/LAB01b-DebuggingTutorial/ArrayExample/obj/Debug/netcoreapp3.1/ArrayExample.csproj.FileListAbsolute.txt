@@ -1,0 +1,13 @@
+E:\CodeFellows\401\LAB01b-DebuggingTutorial\ArrayExample\bin\Debug\netcoreapp3.1\ArrayExample.exe
+E:\CodeFellows\401\LAB01b-DebuggingTutorial\ArrayExample\bin\Debug\netcoreapp3.1\ArrayExample.deps.json
+E:\CodeFellows\401\LAB01b-DebuggingTutorial\ArrayExample\bin\Debug\netcoreapp3.1\ArrayExample.runtimeconfig.json
+E:\CodeFellows\401\LAB01b-DebuggingTutorial\ArrayExample\bin\Debug\netcoreapp3.1\ArrayExample.runtimeconfig.dev.json
+E:\CodeFellows\401\LAB01b-DebuggingTutorial\ArrayExample\bin\Debug\netcoreapp3.1\ArrayExample.dll
+E:\CodeFellows\401\LAB01b-DebuggingTutorial\ArrayExample\bin\Debug\netcoreapp3.1\ArrayExample.pdb
+E:\CodeFellows\401\LAB01b-DebuggingTutorial\ArrayExample\obj\Debug\netcoreapp3.1\ArrayExample.csprojAssemblyReference.cache
+E:\CodeFellows\401\LAB01b-DebuggingTutorial\ArrayExample\obj\Debug\netcoreapp3.1\ArrayExample.AssemblyInfoInputs.cache
+E:\CodeFellows\401\LAB01b-DebuggingTutorial\ArrayExample\obj\Debug\netcoreapp3.1\ArrayExample.AssemblyInfo.cs
+E:\CodeFellows\401\LAB01b-DebuggingTutorial\ArrayExample\obj\Debug\netcoreapp3.1\ArrayExample.csproj.CoreCompileInputs.cache
+E:\CodeFellows\401\LAB01b-DebuggingTutorial\ArrayExample\obj\Debug\netcoreapp3.1\ArrayExample.dll
+E:\CodeFellows\401\LAB01b-DebuggingTutorial\ArrayExample\obj\Debug\netcoreapp3.1\ArrayExample.pdb
+E:\CodeFellows\401\LAB01b-DebuggingTutorial\ArrayExample\obj\Debug\netcoreapp3.1\ArrayExample.genruntimeconfig.cache

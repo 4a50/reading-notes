@@ -18,7 +18,7 @@ Examine your assumptions:
 + Did you expect the **object** or **variable** to contain a certain *value*?
 + Fo you know the intent of the code?  That is, if it is not YOUR code, do you know what it is supposed to do?
 
-Step through your code in debugging mode to find where the problem occured.
+Step through your code in debugging mode to find where the problem occurred.
 
 ## Try and Catch Blocks
 
@@ -60,7 +60,7 @@ Keywords:
 
 **finally** will execute after the computer leave the **try** or **catch** blocks to execute cleanup code.
 
-Can **throw** an excpetion manuall in code.
+Can **throw** an exception manually in code.
 
 + can also use it as an expression `public string Foo() => throw new Exception();`
 

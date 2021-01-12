@@ -16,6 +16,7 @@ Photo by Markus Spiske on Unsplash
 ## Reference Links
 
 [Linux Commands Cheat Sheet](LinuxCheetSheet.md)
+[README Template](/Code-401/example-readme.md)
 
 ## Code 102 - Intro to Software Development
 
@@ -86,6 +87,7 @@ Photo by Markus Spiske on Unsplash
 ## Code 401 - Advanced Software Development
 
 + [Read 01 - Exception Handling and Debugging](/Code-401/read-01.md)
++ [Read 02 - Unit Testing and Documentation](/Code-401/read-02.md)
 
 ## What is Growth Mindset to me
 
