@@ -1,4 +1,4 @@
-# Notes for Read 01 - Exception handling and Debugging
+# Notes for Read 02 - Unit Testing and Documentation
 
 ## Unit Testing Best Practices 
 
