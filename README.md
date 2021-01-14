@@ -89,6 +89,7 @@ Photo by Markus Spiske on Unsplash
 + [Read 01 - Exception Handling and Debugging](/Code-401/read-01.md)
 + [Read 02 - Unit Testing and Documentation](/Code-401/read-02.md)
 + [Read 03 - System.IO](/Code-401/read-03.md)
++ [Read 04 - Objects and Classes](/Code-401/read-04.md)
 
 ## What is Growth Mindset to me
 
