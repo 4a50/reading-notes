@@ -64,7 +64,7 @@ Or is not a "is a".
 
 You can *seal* a member of a class to prevent *inheriting* from it.
 
-A *virtual* method allows a inherited class to *override* it.
+A *virtual* method allows an inherited class to *override* it.
 
 
 ## Abstract
@@ -113,7 +113,7 @@ Nothing can inherit from MontyMole.
 
 ***Third Pillar*** of OOP
 
-A *virtual* allows that property/method to be overridden to suit the inherited class' needs.
+A *virtual* allows that property/method to be overridden to suit the inherited class's needs.
 If it doesn't override it, then other derived classes from it can override if necessary.
 
 The derived class may define *non-virtual* member to hide the *base * from subsequent derivations.
@@ -130,7 +130,7 @@ Only
 
 [Microsoft Docs - OOP](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/object-oriented-programming)
 
-Most concepts already discussed above.  Only addition point to touch on.
+Most concepts already discussed above.  Only additional point to touch on.
 
 + You can use `: this (params)` in a constructor to call another constructor and add default params.
 
