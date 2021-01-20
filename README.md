@@ -93,6 +93,7 @@ Photo by Markus Spiske on Unsplash
 + [Read 05 - Linked Lists](/Code-401/read-05.md)
 + [Read 06 - OOP Principles](/Code-401/read-06.md)
 + [Read 07 - Interfaces](/Code-401/read-07.md)
++ [Read 08 - Collections](/Code-401/read-08.md)
 
 ## What is Growth Mindset to me
 

@@ -43,9 +43,52 @@ You can get the number of the values.
 (int)Luigi //will equal 2
 ```
 
+## C# In a Nutshell 7.0 pg 118-124
+
+### enums
+
+Additional *enum* properties
+
+Use enums as differeny ata types such as bytes
+
+```
+public enum borderSide : byte
+```
+Use *horizontal alignment* to cast from one type to another
+
+?? Bitwise operators?
+
+Combine enums with flags
+
+### Generics
+
+These allow methods to be written that can process any data type.
+
+```
+public void Things<T>(ref T param1, ref T param2)
+{
+
+}
+```
+Prevent duplicate methods to same work.
 
 
+## C# In a Nutshell 7.0 pgs 301-313, 324-327 
+### (Scanning for Notes)
 
+IEnumerator advances through a collection in a forward manner only
+
+ICollection and IList interfaces allows for counting of item is the collection
+
+IDictionary uses random access via KVP
+
+### Array Class
+
+If two distinct arrays are directly compared they will be false.
+
+Can search Arrays with .Find
+Can also sort Arrays with .Sort
+Can use the Array class to utilize Stacks, Queues, and Set Data Structures.
 
 
 
