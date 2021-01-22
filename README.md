@@ -94,8 +94,9 @@ Photo by Markus Spiske on Unsplash
 + [Read 06 - OOP Principles](/Code-401/read-06.md)
 + [Read 07 - Interfaces](/Code-401/read-07.md)
 + [Read 08 - Collections](/Code-401/read-08.md)
-+ [Read 09 - LINQ](/Code-401/read-09.md)+ 
-
++ [Read 09 - LINQ](/Code-401/read-09.md)
++ [Read 10 - Data Structures: Stacks and Queues](/Code-401/read-10.md)
+ 
 ## What is Growth Mindset to me
 
 It is pretty much something that has enabled me to get through my career.  In a high-tempo environment, you need to be able to take you lickings and keep rolling for the next challenge, and ask for help when you need it because you don't have all the answers.
