@@ -86,16 +86,19 @@ Photo by Markus Spiske on Unsplash
 
 ## Code 401 - Advanced Software Development
 
+### Module 1
 + [Read 01 - Exception Handling and Debugging](/Code-401/read-01.md)
 + [Read 02 - Unit Testing and Documentation](/Code-401/read-02.md)
 + [Read 03 - System.IO](/Code-401/read-03.md)
 + [Read 04 - Objects and Classes](/Code-401/read-04.md)
 + [Read 05 - Linked Lists](/Code-401/read-05.md)
+### Module 2
 + [Read 06 - OOP Principles](/Code-401/read-06.md)
 + [Read 07 - Interfaces](/Code-401/read-07.md)
 + [Read 08 - Collections](/Code-401/read-08.md)
 + [Read 09 - LINQ](/Code-401/read-09.md)
 + [Read 10 - Data Structures: Stacks and Queues](/Code-401/read-10.md)
++ [Read 11 - ERD](/Code-401/read-11.md)
  
 ## What is Growth Mindset to me
 
