@@ -99,6 +99,7 @@ Photo by Markus Spiske on Unsplash
 + [Read 09 - LINQ](/Code-401/read-09.md)
 + [Read 10 - Data Structures: Stacks and Queues](/Code-401/read-10.md)
 + [Read 11 - ERD](/Code-401/read-11.md)
++ [Read 12 - EF Core and APIs](/Code-401/read-12.md)
  
 ## What is Growth Mindset to me
 
