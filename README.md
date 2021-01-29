@@ -106,6 +106,7 @@ Photo by Markus Spiske on Unsplash
 + [Read 12 - EF Core and APIs](/Code-401/read-12.md)
 + [Read 13 - Dependency Injection](/Code-401/read-13.md)
 + [Read 14 - Routing and Navigation Properties](/Code-401/read-14.md)
++ [Read 15 - Data Structures: Trees](/Code-401/read-15.md)
 
 ## What is Growth Mindset to me
 
