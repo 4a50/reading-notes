@@ -111,6 +111,7 @@ Photo by Markus Spiske on Unsplash
 
 + [Read 16 - Refactoring with DTOs](/Code-401/read-16.md)
 + [Read 17 - Razor Pages](/Code-401/read-17.md)
++ [Read 18 - Authentication](/Code-401/read-18.md)
 
 ## What is Growth Mindset to me
 
