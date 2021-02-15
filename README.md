@@ -112,6 +112,11 @@ Photo by Markus Spiske on Unsplash
 + [Read 16 - Refactoring with DTOs](/Code-401/read-16.md)
 + [Read 17 - Razor Pages](/Code-401/read-17.md)
 + [Read 18 - Authentication](/Code-401/read-18.md)
++ [Read 19 - Claims and JWT tokens](/Code-401/read-19.md)
+### Project Week 1 (LiteBerry Pi)
+
+### Module  5
++ [Read 26 - MVC](/Code-401/read-26.md)
 
 ## What is Growth Mindset to me
 
