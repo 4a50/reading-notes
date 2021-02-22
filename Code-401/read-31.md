@@ -1,3 +1,5 @@
+# Notes for Read 31 - Razor Pages
+
 # Notes for Read 17 - Razor Pages
 
 ## Intro To Razor Pages
@@ -21,6 +23,8 @@ Razor Pages are built into .NET framework
 MVC uses the controller to call the logic and then send the data out.  Razor Pages the request goes to the page that was built to handle it 
 and sends back the response from there.
 
-
+Razor Pages vs MVC
++ Don't need make Models and Controllers as seperate pages
++ Razor is good for people beginning or transitions over from other languages.
 
 [&lt;--&#91;BACK&#93;](/README.md)

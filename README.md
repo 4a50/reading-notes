@@ -120,6 +120,7 @@ Photo by Markus Spiske on Unsplash
 + [Read 27 - Cookies](/Code-401/read-27.md)
 + [Read 28 - MVC Forms](/Code-401/read-28.md)
 + [Read 29 - Azure Blobs](/Code-401/read-29.md)
++ [Read 31 - Razor Pages](/Code-401/read-31.md)
 
 ## What is Growth Mindset to me
 
