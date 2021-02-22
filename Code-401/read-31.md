@@ -1,7 +1,5 @@
 # Notes for Read 31 - Razor Pages
 
-# Notes for Read 17 - Razor Pages
-
 ## Intro To Razor Pages
 
 [MS Docs](https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-2.2&tabs=visual-studio)
