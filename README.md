@@ -125,6 +125,7 @@ Photo by Markus Spiske on Unsplash
 + [Read 31 - Razor Pages](/Code-401/read-31.md)
 + [Read 32 - Component Pages](/Code-401/read-32.md) 
 + [Read 33 - SendGrid](/Code-401/read-33.md)
++ [Read 34 - Graphs](/Code-401/read-34.md)
 
 ## What is Growth Mindset to me
 
