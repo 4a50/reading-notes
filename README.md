@@ -126,6 +126,8 @@ Photo by Markus Spiske on Unsplash
 + [Read 32 - Component Pages](/Code-401/read-32.md) 
 + [Read 33 - SendGrid](/Code-401/read-33.md)
 + [Read 34 - Graphs](/Code-401/read-34.md)
++ [Read 36 - Xamarin](/Code-401/read-36.md)
++ 
 
 ## What is Growth Mindset to me
 
