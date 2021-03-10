@@ -130,6 +130,7 @@ Photo by Markus Spiske on Unsplash
 ### Module 7
 + [Read 36 - Xamarin](/Code-401/read-36.md)
 + [Read 37 - Xamarin Forms and Data Services](/Code-401/read-37.md)
++ [Read Ethics](/Code-401/read-ethics.md)
 
 
 ## What is Growth Mindset to me

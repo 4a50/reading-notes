@@ -4,7 +4,7 @@
 [CSharp Corner](https://www.c-sharpcorner.com/article/local-file-storage-using-xamarin-form/)
 
 Xamarin recommends a third party storage PCLStorage Library
-PCL Storage provides a consisten protable set of local file IO
+PCL Storage provides a consistent portable set of local file IO
 
 Steps to get up and running:
 
@@ -22,7 +22,7 @@ Install NuGet Package (sqlite-net-pcl)
 
 Must configure app constants to initialize the connection
 
-+ Create and instance of the database and use Database.CreateTableAsync to add a table
++ Create an instance of the database and use Database.CreateTableAsync to add a table
 
 Can Copy the database to backup/update/etc..
 
